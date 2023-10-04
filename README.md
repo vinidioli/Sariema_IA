@@ -20,20 +20,20 @@ O objetivo deste projeto é criar um sistema de detecção de sinais de Libras u
 
 ### Etapa de Detecção de Pontos
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png" width="300" height="300" class="centered-img">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-2.png" width="300" height="300" class="centered-img">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-3.png" width="300" height="300" class="centered-img">
-</div>
+<p align="center">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png" width="300" height="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-2.png" width="300" height="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-3.png" width="300" height="300">
+</p>
 
 ### Reconhecimento Final dos Sinais
 
-<div style="display: flex; justify-content: space-between;">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png" width="300" height="300" class="centered-img">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Pequeno.png" width="300" height="300" class="centered-img">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-W.png" width="300" height="300" class="centered-img">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Palavra.png" width="300" height="300" class="centered-img">
-</div>
+<p align="center">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png" width="300" height="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Pequeno.png" width="300" height="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-W.png" width="300" height="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Palavra.png" width="300" height="300">
+</p>
 
 
 ## Instalação
