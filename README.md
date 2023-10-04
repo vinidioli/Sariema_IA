@@ -13,16 +13,17 @@ O objetivo deste projeto é criar um sistema de detecção de sinais de Libras u
 
 ### Etapa de Detecção de Pontos
 
-![Detecção de Pontos na Mão](handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png | width=300)
-![Detecção de Pontos na Mão](handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-2.png | width=300)
-![Detecção de Pontos na Mão](handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-3.png | width=300)
+<img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png" width="300">
+<img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-2.png" width="300">
+<img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-3.png" width="300">
 
 ### Reconhecimento Final dos Sinais
 
-![Classificação Sinal V](handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png | width=300)
-![Classificação Sinal Pequeno](handSighnDetectionMediaPipe/Imagens-README/Sinal-Pequeno.png | width=300)
-![Classificação Sinal W](handSighnDetectionMediaPipe/Imagens-README/Sinal-W.png | width=300)
-![Classificação Sinal Palavra](handSighnDetectionMediaPipe/Imagens-README/Sinal-Palavra.png | width=300)
+<img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png" width="300">
+<img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Pequeno.png" width="300">
+<img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-W.png" width="300">
+<img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Palavra.png" width="300">
+
 
 ## Instalação
 
