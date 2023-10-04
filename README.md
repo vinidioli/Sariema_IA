@@ -1,7 +1,8 @@
 # Sariema_IA
 #### Unindo mãos e tecnologia
 
-![Sinais de Libras]((https://cdn.discordapp.com/attachments/1122157107714736129/1159250372481794078/image.png?ex=6530570a&is=651de20a&hm=7ab3e47e3b41a8e829e0ddf23cd0997d94dc6f49fa35fd1e3a970bf5eb33ff47&))
+![Projeto Sariema](https://github.com/vinidioli/Sariema_IA/assets/75858528/710e7fba-4f42-4006-b58d-49e68e5ae2cb)
+
 
 Este é um projeto de detecção de sinais de Libras usando Python, OpenCV, Scikit Learn (Numpy, Random Forest, etc).
 
