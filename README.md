@@ -11,7 +11,9 @@ O objetivo deste projeto é criar um sistema de detecção de sinais de Libras u
 
 - Detecção de gestos de sinais de Libras
 
-### Etapa de Detecção de Pontos
+### Detecção de Pontos
+
+Etapa responsável por detectar pontos-chave nas mãos, que posteriormente são utilizados no treinamento do modelo.
 
 <p align="center">
   <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png" width="300" height="300">
@@ -20,6 +22,8 @@ O objetivo deste projeto é criar um sistema de detecção de sinais de Libras u
 </p>
 
 ### Reconhecimento Final dos Sinais
+
+Fase final do modelo já treinado, mostrando os resultados detectados e classificados pelo sistema.
 
 <p align="center">
   <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png" width="300" height="300">
