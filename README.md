@@ -11,23 +11,28 @@ O objetivo deste projeto é criar um sistema de detecção de sinais de Libras u
 
 - Detecção de gestos de sinais de Libras
 
+<style>
+  .centered-img {
+    display: block;
+    margin: 0 auto;
+  }
+</style>
+
 ### Etapa de Detecção de Pontos
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png" width="300">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-2.png" width="300">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-3.png" width="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-1.png" width="300" height="300" class="centered-img">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-2.png" width="300" height="300" class="centered-img">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Deteccao-Pontos-3.png" width="300" height="300" class="centered-img">
 </div>
 
 ### Reconhecimento Final dos Sinais
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png" width="300">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Pequeno.png" width="300">
-</div>
-<div style="display: flex; justify-content: space-between;">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-W.png" width="300">
-  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Palavra.png" width="300">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-V.png" width="300" height="300" class="centered-img">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Pequeno.png" width="300" height="300" class="centered-img">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-W.png" width="300" height="300" class="centered-img">
+  <img src="handSighnDetectionMediaPipe/Imagens-README/Sinal-Palavra.png" width="300" height="300" class="centered-img">
 </div>
 
 
