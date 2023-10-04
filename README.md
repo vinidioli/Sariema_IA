@@ -11,13 +11,6 @@ O objetivo deste projeto é criar um sistema de detecção de sinais de Libras u
 
 - Detecção de gestos de sinais de Libras
 
-<style>
-  .centered-img {
-    display: block;
-    margin: 0 auto;
-  }
-</style>
-
 ### Etapa de Detecção de Pontos
 
 <p align="center">
