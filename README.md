@@ -1,5 +1,4 @@
-# Sariema_IA
-#### Unindo mãos e tecnologia
+# SARIEMA IA
 
 ![Projeto Sariema](https://github.com/vinidioli/Sariema_IA/assets/75858528/710e7fba-4f42-4006-b58d-49e68e5ae2cb)
 
